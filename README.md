@@ -1,1 +1,1 @@
-# Tindog-Clone
+# Tindog
